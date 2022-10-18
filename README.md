@@ -2,7 +2,7 @@
 Results of LUNet on underwater image restoration and enhancement
 ![image](https://github.com/zhangbaijin/LUNet/blob/main/introduction1.png)
 ## Training
-- Download the [Datasets](Datasets/README.md)
+- Download the [UIEBD-with-snow](https://drive.google.com/file/d/165sJbPu8UofKpAC3btdqT_QFYBWPay0X/view?usp=sharing)
 
 - Train the model with default arguments by running
 
