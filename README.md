@@ -1,5 +1,7 @@
 ##
-Results of LUNet on underwater image restoration and enhancement
+UIR-Net: A Simple and Effective Baseline for Underwater Image Restoration and Enhancement（Accepted in Remote Sensing2022）
+##
+Results of UIR-Net on underwater image restoration and enhancement
 ![image](https://github.com/zhangbaijin/LUNet/blob/main/introduction1.png)
 ## Training
 - Download the [UIEBD-with-snow](https://drive.google.com/file/d/165sJbPu8UofKpAC3btdqT_QFYBWPay0X/view?usp=sharing)
